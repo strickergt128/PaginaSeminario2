@@ -1,0 +1,62 @@
+.brand-logo{
+  font-family: 'Nova Oval', cursive
+}
+.logo{
+  Height: 100%;
+}
+.nav-wrapper{
+  background-color: #872341;
+}
+.Proyectos{
+  font-family: 'Nova Oval', cursive;
+}
+.parallax-container {
+  min-height: 426px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+#textoinicial{
+  font-family: 'Griffy', cursive;
+  font-size: 150px;
+}
+.titulo{
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+}
+.cuerpo{
+  text-align: center;
+  font-family: 'Nova Oval', cursive;
+  font-size: 18px;
+}
+#parte{
+  background-color: #F9F8ED;
+}
+.redes{
+  margin-right: 88px;
+}
+#footer{
+  text-align: center;
+}
+.page-footer{
+  background-color: #1F4E5F !important;
+  font-family: 'Milonga', cursive;
+}
+.titulo1{
+  color:white;
+}
+body{
+  background-color: #233142;
+}
+#misionyvision{
+  color: #DDDDDD;
+}
+.side-nav{
+  background-color: #872341;
+}
+#tside{
+  color: white;
+}
